@@ -17,6 +17,7 @@ This template attempts to **look clean**, highlight **details**, be a **single p
 
 ## Preview
 https://drive.google.com/file/d/18Pfaox8IeENQ49OlNVNjE1Fywq15md8M/view?usp=sharing
+<img width="800" alt="Screenshot 2023-05-12 at 7 21 36 AM" src="https://github.com/nirmalyax/Nirmalya-Resume/assets/35608135/c851685f-c9ae-45f4-b3cd-dd1cfd0899bb">
 
 ## Dependencies
 
