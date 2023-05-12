@@ -117,6 +117,19 @@ REGRESSION TESTING\\
 \end{tightemize}
 \sectionsep
 
+\section{Projects}
+\runsubsection{Portfolio}
+\descript{}
+\location{Github: https://github.com/nirmalyax/NirmalyaPortfolio}
+\location{Deploy: https://nirmalyamondal.netlify.app/}
+
+\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\begin{tightemize}
+\item Features: Home, About, Skills, Project, Contact
+\item Technologies used - HTML - CSS - JS 
+
+\end{tightemize}
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     RESEARCH
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
